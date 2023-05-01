@@ -1,0 +1,42 @@
+body {
+  background-color: lightgreen;
+}
+#title{
+  font-size: 200%
+}
+p {
+  color: brown;
+  font-size: 150%;
+  font-style: oblique;
+  font-family: fantasy;
+}
+#my-portrait {
+    width: 375px;
+}
+ul {
+  color: yellow;
+  font-size: 150%;
+  font-style: oblique;
+  font-family: fantasy;
+}
+a {
+  color: black;
+  font-size: 125%;
+  font-style: oblique;
+}
+h2 {
+  font-size: 400%;
+}
+.container {
+  border 2 px solid #ccc;
+    padding: 10px;
+  width: 20em;
+  height: 10000px;
+  
+}
+#body{
+  width: 900px;
+  background-color: lightblue;
+  padding: 5px;
+  margin-bottom: 100em;
+}
