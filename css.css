@@ -12,17 +12,12 @@ p {
 }
 #my-portrait {
     width: 375px;
-}
-ul {
-  color: yellow;
-  font-size: 150%;
-  font-style: italic;
-  font-family: fantasy;
+	margin-right:20px;
 }
 a {
   color: black;
   font-size: 125%;
-  font-style: oblique;
+  font-style: italic;
 }
 h2 {
   font-size: 400%;
@@ -31,7 +26,7 @@ h2 {
   border 2 px solid #ccc;
     padding: 10px;
   width: 20em;
-  height: 10000px;
+
   
 }
 #body{
@@ -39,4 +34,13 @@ h2 {
   background-color: lightblue;
   padding: 5px;
   margin-bottom: 100em;
+  height: fit;
+  font-size: 150%
+  overflow: hidden;
 }
+.Chinchillin {
+  font-size: 150%;
+  font-weight: bold;
+  color: white;
+  
+  
